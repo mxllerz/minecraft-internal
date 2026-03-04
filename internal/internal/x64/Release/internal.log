@@ -1,0 +1,11 @@
+﻿  hooks.cpp
+  ui.cpp
+  Generating code
+  2 of 1709 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    35 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+detours64.lib(detours.obj) : warning LNK4099: PDB 'detours.pdb' was not found with 'detours64.lib(detours.obj)' or at 'C:\Users\monarch\Desktop\internal\x64\Release\detours.pdb'; linking object as if no debug info
+detours64.lib(disasm.obj) : warning LNK4099: PDB 'detours.pdb' was not found with 'detours64.lib(disasm.obj)' or at 'C:\Users\monarch\Desktop\internal\x64\Release\detours.pdb'; linking object as if no debug info
+detours64.lib(modules.obj) : warning LNK4099: PDB 'detours.pdb' was not found with 'detours64.lib(modules.obj)' or at 'C:\Users\monarch\Desktop\internal\x64\Release\detours.pdb'; linking object as if no debug info
+  internal.vcxproj -> C:\Users\monarch\Desktop\internal\x64\Release\internal.dll

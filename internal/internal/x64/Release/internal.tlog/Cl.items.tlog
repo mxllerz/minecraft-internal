@@ -1,0 +1,10 @@
+C:\Users\monarch\Desktop\internal\internal\dllmain.cpp;C:\Users\monarch\Desktop\internal\internal\x64\Release\dllmain.obj
+C:\Users\monarch\Desktop\internal\internal\hooks.cpp;C:\Users\monarch\Desktop\internal\internal\x64\Release\hooks.obj
+C:\Users\monarch\Desktop\internal\internal\ui.cpp;C:\Users\monarch\Desktop\internal\internal\x64\Release\ui.obj
+C:\Users\monarch\Desktop\internal\internal\imgui.cpp;C:\Users\monarch\Desktop\internal\internal\x64\Release\imgui.obj
+C:\Users\monarch\Desktop\internal\internal\imgui_draw.cpp;C:\Users\monarch\Desktop\internal\internal\x64\Release\imgui_draw.obj
+C:\Users\monarch\Desktop\internal\internal\imgui_impl_win32.cpp;C:\Users\monarch\Desktop\internal\internal\x64\Release\imgui_impl_win32.obj
+C:\Users\monarch\Desktop\internal\internal\imgui_impl_opengl3.cpp;C:\Users\monarch\Desktop\internal\internal\x64\Release\imgui_impl_opengl3.obj
+C:\Users\monarch\Desktop\internal\internal\imgui_tables.cpp;C:\Users\monarch\Desktop\internal\internal\x64\Release\imgui_tables.obj
+C:\Users\monarch\Desktop\internal\internal\imgui_widgets.cpp;C:\Users\monarch\Desktop\internal\internal\x64\Release\imgui_widgets.obj
+C:\Users\monarch\Desktop\internal\internal\pch.cpp;C:\Users\monarch\Desktop\internal\internal\x64\Release\pch.obj
